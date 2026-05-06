@@ -9,7 +9,6 @@
 
 ## 🔧 Technical Stack
 
-## 🔧 Technical Stack
 
 <table>
   <thead>
